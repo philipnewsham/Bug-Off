@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: Pentagon
+  m_EditorClassIdentifier: 
+  flyIndex: 0
+  spiderIndexes: 02000000
+  webPoints:
+  - {x: 0.29636684, y: 2.9254298}
+  - {x: -4.1778207, y: 0.2294457}
+  - {x: -1.0229448, y: -3.709369}
+  - {x: 2.4760995, y: -3.709369}
+  - {x: 4.483748, y: 0.095602274}
+  webLinesA: 0000000001000000020000000300000004000000
+  webLinesB: 0100000002000000030000000400000000000000
+  cameraSize: 5

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: PacMan
+  m_EditorClassIdentifier: 
+  flyIndex: 1
+  spiderIndexes: 0700000004000000
+  webPoints:
+  - {x: 3.7380502, y: 1.7973232}
+  - {x: 0.52581215, y: 0}
+  - {x: 3.4225633, y: -2.026769}
+  - {x: 0.17208315, y: -3.632887}
+  - {x: -3.4990444, y: -3.6711283}
+  - {x: -5.9464636, y: -0.9177822}
+  - {x: -5.908222, y: 2.753346}
+  - {x: -3.1166348, y: 5.124283}
+  - {x: 1.0516243, y: 5.200765}
+  webLinesA: 000000000100000002000000030000000400000005000000060000000700000008000000
+  webLinesB: 010000000200000003000000040000000500000006000000070000000800000000000000
+  cameraSize: 7

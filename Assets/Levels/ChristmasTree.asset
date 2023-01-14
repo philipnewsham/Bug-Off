@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: ChristmasTree
+  m_EditorClassIdentifier: 
+  flyIndex: 0
+  spiderIndexes: 070000000c000000
+  webPoints:
+  - {x: 0.3575521, y: 8.497132}
+  - {x: -3.1338434, y: 5.2581263}
+  - {x: 4.227533, y: 5.4684515}
+  - {x: 1.535372, y: 5.552582}
+  - {x: -0.7361374, y: 5.5105166}
+  - {x: -5.7839394, y: 0.7571708}
+  - {x: -1.0726576, y: 0.79923475}
+  - {x: -9.275334, y: -4.9636707}
+  - {x: -1.6195035, y: -4.9636707}
+  - {x: -2.0401528, y: -8.665392}
+  - {x: 2.1663482, y: -8.455067}
+  - {x: 2.1663482, y: -4.585086}
+  - {x: 9.864245, y: -4.038241}
+  - {x: 8.391969, y: 1.1778208}
+  - {x: 2.5869975, y: 1.1778208}
+  webLinesA: 00000000010000000400000005000000060000000700000008000000090000000a0000000b0000000b0000000000000002000000030000000d0000000e000000
+  webLinesB: 010000000400000005000000060000000700000008000000090000000a0000000b000000080000000c00000002000000030000000d0000000e0000000c000000
+  cameraSize: 11

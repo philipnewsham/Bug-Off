@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: Triangle
+  m_EditorClassIdentifier: 
+  flyIndex: 0
+  spiderIndexes: 01000000
+  webPoints:
+  - {x: 0.7361374, y: 3.135755}
+  - {x: -3.3365202, y: -1.2237093}
+  - {x: 4.13958, y: -1.3957936}
+  webLinesA: 000000000100000002000000
+  webLinesB: 010000000200000000000000
+  cameraSize: 5

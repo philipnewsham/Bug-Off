@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: Overlap
+  m_EditorClassIdentifier: 
+  flyIndex: 1
+  spiderIndexes: 040000000a000000
+  webPoints:
+  - {x: -2.003824, y: 5.6941686}
+  - {x: -6.1032505, y: 3.4608989}
+  - {x: -6.256214, y: -1.0056404}
+  - {x: -2.248566, y: -3.1777248}
+  - {x: 1.3613769, y: -0.5773424}
+  - {x: 1.3613769, y: 3.7056403}
+  - {x: -0.78011453, y: 0.8605162}
+  - {x: -0.7189289, y: -3.8813577}
+  - {x: 2.9216058, y: -5.778107}
+  - {x: 6.1644354, y: -3.7895794}
+  - {x: 6.1950293, y: 0.8605162}
+  - {x: 3.0745692, y: 3.3079352}
+  webLinesA: 0b000000060000000700000008000000090000000a000000040000000500000000000000010000000200000003000000
+  webLinesB: 060000000700000008000000090000000a0000000b000000050000000000000001000000020000000300000004000000
+  cameraSize: 8

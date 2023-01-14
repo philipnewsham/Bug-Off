@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: Smiley
+  m_EditorClassIdentifier: 
+  flyIndex: 0
+  spiderIndexes: 05000000
+  webPoints:
+  - {x: -1.3671126, y: 1.0707456}
+  - {x: 3.5850859, y: 1.0133845}
+  - {x: -4.8852777, y: -0.86042076}
+  - {x: -3.8145318, y: -2.1032505}
+  - {x: -1.2715106, y: -3.4799237}
+  - {x: 1.4435942, y: -3.785851}
+  - {x: 3.9101343, y: -3.5946465}
+  - {x: 5.8604207, y: -2.6195028}
+  - {x: 7.217973, y: -1.0707456}
+  webLinesA: 020000000300000004000000050000000600000007000000
+  webLinesB: 030000000400000005000000060000000700000008000000
+  cameraSize: 5

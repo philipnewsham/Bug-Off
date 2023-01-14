@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: Basic
+  m_EditorClassIdentifier: 
+  flyIndex: 6
+  spiderIndexes: 04000000
+  webPoints:
+  - {x: -2.1701722, y: 2.581262}
+  - {x: 1.9024858, y: 2.1414912}
+  - {x: 2.782027, y: -1.0707456}
+  - {x: -0.047801055, y: -3.2504778}
+  - {x: -2.782027, y: -2.6003826}
+  - {x: -4.3116636, y: 0.28680682}
+  - {x: -0.6214148, y: -0.21032512}
+  webLinesA: 000000000500000005000000050000000400000004000000030000000300000002000000060000000100000001000000
+  webLinesB: 060000000000000006000000040000000600000003000000060000000200000006000000010000000200000000000000
+  cameraSize: 5
