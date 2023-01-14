@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: LevelOne(1)
+  m_EditorClassIdentifier: 
+  flyIndex: 0
+  spiderIndexes: 01000000
+  webPoints:
+  - {x: -1.5258126, y: 0.15296364}
+  - {x: 2.290631, y: 0.15296364}
+  - {x: 5.128107, y: 0.18355608}
+  - {x: -4.8068833, y: 0.3441682}
+  - {x: -4.049713, y: 3.0745697}
+  - {x: -4.9445505, y: -2.3403444}
+  - {x: 6.8718925, y: 3.1663477}
+  - {x: 7.51434, y: 0.41300225}
+  - {x: 7.399617, y: -2.6845126}
+  webLinesA: 04000000030000000500000003000000030000000100000002000000020000000200000008000000070000000600000005000000
+  webLinesB: 00000000000000000000000004000000050000000200000006000000070000000800000007000000060000000400000008000000
+  cameraSize: 2

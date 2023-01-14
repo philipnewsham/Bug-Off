@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: Smirk
+  m_EditorClassIdentifier: 
+  flyIndex: 11
+  spiderIndexes: 0000000004000000
+  webPoints:
+  - {x: -5.2868066, y: 4.5506687}
+  - {x: -1.860421, y: 2.5697892}
+  - {x: 2.8508606, y: 2.435946}
+  - {x: 8.231359, y: 4.7380495}
+  - {x: 4.8317394, y: 0.40152952}
+  - {x: 7.695985, y: 1.7934989}
+  - {x: 7.3747616, y: -0.13384317}
+  - {x: -3.868069, y: 0.72275347}
+  - {x: -6.9732313, y: 1.9808797}
+  - {x: -6.678776, y: 0}
+  - {x: -5.1529636, y: -3.8814528}
+  - {x: 3.3862338, y: -3.7476096}
+  - {x: 5.9024863, y: -2.4091775}
+  webLinesA: 00000000020000000400000005000000060000000700000008000000090000000a0000000b000000
+  webLinesB: 01000000030000000500000006000000040000000800000009000000070000000b0000000c000000
+  cameraSize: 7

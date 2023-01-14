@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb5c21cd0310c84eb62de8da1ebfd4b, type: 3}
+  m_Name: LevelThree
+  m_EditorClassIdentifier: 
+  flyIndex: 0
+  spiderIndexes: 03000000070000000a000000
+  webPoints:
+  - {x: -9.206501, y: -0.5850858}
+  - {x: -3.2523897, y: 5.575526}
+  - {x: -4.491396, y: -6.332696}
+  - {x: 2.6328876, y: -0.20650113}
+  - {x: 7.8298287, y: -0.034417033}
+  - {x: 8.965583, y: 3.7170172}
+  - {x: 4.3537292, y: 5.74761}
+  - {x: 9.1587, y: 7.4187384}
+  - {x: 8.355641, y: -4.015296}
+  - {x: 3.996176, y: -6.3479924}
+  - {x: 9.120459, y: -7.5334606}
+  webLinesA: 0000000001000000060000000600000007000000050000000300000004000000080000000a000000090000000900000002000000
+  webLinesB: 01000000060000000700000005000000050000000400000004000000080000000a00000009000000080000000200000000000000
+  cameraSize: 10
